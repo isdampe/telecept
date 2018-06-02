@@ -1,7 +1,7 @@
 const chalk = require('chalk')
 
-const ATFCSS_START_SEQ = "/*@atf"
-const ATFCSS_END_SEQ = "/*@end-atf"
+const ATFCSS_START_SEQ = "/*@telecept"
+const ATFCSS_END_SEQ = "/*@end-telecept"
 const ATFCSS_STATE_DEFAULT = 0x0
 const ATFCSS_STATE_ACTIVE = 0x1
 
