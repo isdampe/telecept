@@ -1,0 +1,22 @@
+body {
+	background: red;
+	font-size: 13px;
+}
+
+/*@atf someTable.css*/
+.someTable {
+	font-size: 16px;
+}
+/*@end-atf*/
+
+/*@atf header.css*/
+.header {
+	background: green;
+}
+/*@end-atf*/
+
+/*@atf someTable.css*/
+.someTable tr {
+	border-style: none;
+}
+/*@end-atf*/

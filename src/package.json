@@ -1,0 +1,23 @@
+{
+	"name": "telecept",
+	"bin": "telecept.js",
+	"version": "0.1.0",
+	"description": "A CSS precompilation step for routing blocks of styles to individual files",
+	"main": "telecept.js",
+	"dependencies": {
+		"chalk": "2.4.1"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/isdampe/telecept.git"
+	},
+	"author": "Richard Denton",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/isdampe/telecept/issues"
+	},
+	"homepage": "https://github.com/isdampe/telecept#readme"
+}
